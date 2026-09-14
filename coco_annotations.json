@@ -29,6 +29,30 @@
       "file_name": "4.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 7,
+      "file_name": "screenshot_20260914_123001.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 8,
+      "file_name": "screenshot_20260914_134046.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 9,
+      "file_name": "screenshot_20260914_134226.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 10,
+      "file_name": "screenshot_20260914_134834.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -109,6 +133,71 @@
       ],
       "area": 325,
       "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8,
+      "category_id": 7,
+      "bbox": [
+        1030,
+        988,
+        45,
+        67
+      ],
+      "area": 3015,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7,
+      "category_id": 8,
+      "bbox": [
+        496,
+        573,
+        110,
+        130
+      ],
+      "area": 14300,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 7,
+      "category_id": 9,
+      "bbox": [
+        1305,
+        409,
+        69,
+        64
+      ],
+      "area": 4416,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 9,
+      "category_id": 10,
+      "bbox": [
+        1006,
+        734,
+        46,
+        49
+      ],
+      "area": 2254,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 10,
+      "category_id": 11,
+      "bbox": [
+        54,
+        285,
+        32,
+        36
+      ],
+      "area": 1152,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -140,6 +229,31 @@
     {
       "id": 6,
       "name": "now_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 7,
+      "name": "login_out",
+      "supercategory": ""
+    },
+    {
+      "id": 8,
+      "name": "login_in",
+      "supercategory": ""
+    },
+    {
+      "id": 9,
+      "name": "login_down",
+      "supercategory": ""
+    },
+    {
+      "id": 10,
+      "name": "confirm",
+      "supercategory": ""
+    },
+    {
+      "id": 11,
+      "name": "login_switch",
       "supercategory": ""
     }
   ]
