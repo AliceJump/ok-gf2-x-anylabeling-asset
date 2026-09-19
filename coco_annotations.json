@@ -53,6 +53,12 @@
       "file_name": "screenshot_20260914_134834.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 11,
+      "file_name": "screenshot_20260919_135210.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -119,19 +125,6 @@
         26
       ],
       "area": 624,
-      "iscrowd": 0
-    },
-    {
-      "id": 6,
-      "image_id": 5,
-      "category_id": 6,
-      "bbox": [
-        659,
-        401,
-        25,
-        13
-      ],
-      "area": 325,
       "iscrowd": 0
     },
     {
@@ -211,6 +204,32 @@
       ],
       "area": 888,
       "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 5,
+      "category_id": 6,
+      "bbox": [
+        659,
+        401,
+        25,
+        13
+      ],
+      "area": 325,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 5,
+      "category_id": 13,
+      "bbox": [
+        135,
+        33,
+        20,
+        38
+      ],
+      "area": 760,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -272,6 +291,11 @@
     {
       "id": 12,
       "name": "back_home",
+      "supercategory": ""
+    },
+    {
+      "id": 13,
+      "name": "back_home_light",
       "supercategory": ""
     }
   ]
